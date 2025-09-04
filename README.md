@@ -29,3 +29,10 @@ It allows you to input the URL of a company’s careers page. The tool then extr
 2. **Install dependencies**  
    ```bash
    pip install -r requirements.txt
+
+
+2. **Run the Streamlit app**  
+   ```bash
+   streamlit run app/main.py
+
+   
