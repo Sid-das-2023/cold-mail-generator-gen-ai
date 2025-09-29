@@ -11,8 +11,6 @@ It allows you to input the URL of a company’s careers page. The tool then extr
 - Instead of only applying through the portal, **Sid** (the applicant) wants to directly reach out to the hiring manager.  
 - The tool generates a tailored cold email addressed to the hiring manager, and Sid attaches his **resume** for consideration.  
 
-![img.png](imgs/img.png)
-
 ---
 
 ## 🏗️ Architecture Diagram
